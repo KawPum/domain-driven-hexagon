@@ -1,4 +1,4 @@
-_**This repo is work in progress owo**_
+_**This repo is work in progress uwu**_
 
 # Domain-Driven Hexagon
 
