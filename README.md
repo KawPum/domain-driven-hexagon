@@ -1,4 +1,4 @@
-_**This repo is work in progress text1**_
+_**This repo is work in progress text2**_
 
 # Domain-Driven Hexagon
 
